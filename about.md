@@ -8,8 +8,8 @@ My name is Andrés Chacin. I'm a graphic and web design student at the Miami Int
 
 ### More Information
 
-A place where I would put more infomation about myself I really didn't.
+A place where I would put more infomation about myself I really wouldn't.
 
-### Contact me
+## Contact me
 
 [andreschacin96@gmail.com](mailto:andreschacin96@gmail.com)
