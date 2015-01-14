@@ -8,7 +8,7 @@ My name is Andrés Chacin. I'm a graphic and web design student at the Miami Int
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself. 
+A place where I would put more infomation about myself I really didn't.
 
 ### Contact me
 
