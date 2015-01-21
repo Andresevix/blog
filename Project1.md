@@ -1,4 +1,4 @@
 ---
 layout: page
 ---
-asymmetrical 1
+asymmetrical 
