@@ -12,4 +12,4 @@ Another way to hook your costumers is be using a conversational style when you w
 This will make the costumer feel that you're just a buddy of his. Creating that trust is essential. Don't try to impresses your readers with fancy and complicated words. 
 Nobody likes a smartypants. 
 
-People want information and they want it quick. By using bullets, short paragraph in such way that they devided ideas, and highlighting important words or phrases using bold words or even uderlining them, will make your readers become **in love** with your page. 
+People want information and they want it quick. By using bullets, short paragraph in such way that they divided ideas, and highlighting important words or phrases using bold words or even underlining them, will make your readers become **in love** with your page. 
