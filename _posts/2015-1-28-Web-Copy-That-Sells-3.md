@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: Web Copy That Sells 3
 ---
 
 In chapter 2 the author wrote on how to increase your actual sells of your product, why such products fail to sell and how important is to ask yourself the three P's. What are those three P's you may ask?
