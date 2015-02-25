@@ -1,5 +1,5 @@
 ---
-layuot: post
+layout: post
 title: Services
 ---
 *#1 Package: New Logo for your company. 10-20 Hours 750$-1000$
