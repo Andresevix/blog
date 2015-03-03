@@ -2,8 +2,6 @@
 layout: post 
 title: Service Prices
 ---
-
-<!doctype html>
 <html>
 <head>
 <meta charset="UTF-8">
@@ -11,7 +9,7 @@ title: Service Prices
 </head>
 
 <body>
-<table border="1">
+<table border="3">
   <tbody>
     <tr>
       <th width="58" scope="col"><strong>Package</strong></th>
