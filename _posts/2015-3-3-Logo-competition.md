@@ -5,7 +5,7 @@ title: Logo Competition in MIU!
   I’m wondering if you’ll sign up to the competition since you're an artist, or not. The prize may blow you away. 
 
   *MIU* is creating this amazing opportunity to make the students work together, get to know each other and improve ideas that they may 
-already had. The university is looking for an alternative logo to put in billboards, ads, etc. and they're looking for designer in the university.
+already had. Who knows? Maybe you find "the one"... The university is looking for an alternative logo to put in billboards, ads, etc. and they're looking for designer in the university.
 I'm pretty sure every student in MIU is capable of winning this contest, *easily*. Now that you're reading this post, read
 the contest regulation in order to win:
 
