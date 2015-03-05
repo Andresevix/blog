@@ -6,3 +6,4 @@ title: Testimonials
 
 "A great student, always asking for other ways to complete a simple task. Definitely good classmate and a great sport!" - Ricardo, Technical Drawing Teacher.
 
+"Valeria's blog is better. But you like Coco so you win."- Edda Leon
