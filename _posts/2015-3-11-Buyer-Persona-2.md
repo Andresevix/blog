@@ -33,4 +33,4 @@ title: Buyer Personas
 * Hard to get through ideas via email.
 
 ##MARKETING MESSAGING:
-* Looking for graphic designer who can talk to clinets and visit them to maximize the experience for the company. 
+* Looking for graphic designer who can talk to clients and visit them to maximize the experience for the company. 
