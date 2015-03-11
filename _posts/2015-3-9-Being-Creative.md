@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Being Creative
+title: Always Be Creative
 ---
 
 
