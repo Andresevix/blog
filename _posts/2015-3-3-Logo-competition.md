@@ -18,3 +18,5 @@ the contest regulation in order to win:
 *San Francisco!* 
 
   *Get your design on and have fun!*
+  
+  #COMPETITION CLOSE
