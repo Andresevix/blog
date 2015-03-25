@@ -3,13 +3,23 @@ layout: page
 title: About
 permalink: /about/
 ---
+Want to know about me? Let's see...
+#Personal
 
-My name is Andrés Chacin. I'm a graphic and web design student at the Miami International University of Art and Design.
+*Name: Andrés Chacin
+*Gender: Male.
+*Personality: Friendly.
 
-### More Information
+#Hire Me
 
-A place where I would put more infomation about myself but I wouldn't.
+*Career: Graphic and Web Designer.
+*Interested: Art, Design, Working, Innovating. 
+*Location: Miami, Florida.
 
-## Contact me
+#My work
+*[Twitter](https://twitter.com/AndresEXI)
+*[Flickr](https://www.flickr.com/photos/130082601@N06/)
+*[Quora](http://www.quora.com/Andres-Eloy-Chacin)
 
-[andreschacin96@gmail.com](mailto:andreschacin96@gmail.com)
+#Contant Me
+*[andreschacin96@gmail.com](mailto:andreschacin96@gmail.com)
