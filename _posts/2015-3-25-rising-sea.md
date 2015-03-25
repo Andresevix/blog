@@ -2,8 +2,9 @@
 layout: post
 title: Rising sea levels threaten South Florida? Scary movie becomes reality.
 ---
+![maimi](http://www.pbs.org/newshour/wp-content/uploads/2014/06/495454545-1024x631.jpg)
 
-MIAMI BEACH, Fla. — On a recent afternoon, Scott McKenzie watched torrential rains and a murky tide swallow the street outside his dog-grooming salon. Within minutes, much of this stretch of chic South Beach was flooded ankle-deep in a fetid mix of rain and sea.
+_MIAMI BEACH, Fla._ — On a recent afternoon, Scott McKenzie watched torrential rains and a murky tide swallow the street outside his dog-grooming salon. Within minutes, much of this stretch of chic South Beach was flooded ankle-deep in a fetid mix of rain and sea.
 There are few places in the nation more vulnerable to rising sea levels than low-lying _South Florida_, a tourist and retirement mecca built on drained swampland.
 Yet as other coastal states and the Obama administration takes aggressive measures to battle the effects of global warming, Florida’s top Republican politicians are challenging the science and balking at government fixes.
 Gov. Rick Scott, has worked with the Republican-controlled Legislature to dismantle Florida’s fledgling climate change initiatives.
