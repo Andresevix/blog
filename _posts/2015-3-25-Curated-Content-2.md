@@ -2,7 +2,7 @@
 layout: post
 title: Nike is the best sports brand?
 ---
-![nike[(https://nikeagent.custhelp.com/rnt/rnw/img/enduser/launch_logo_swoosh.png)
+![nike](https://nikeagent.custhelp.com/rnt/rnw/img/enduser/launch_logo_swoosh.png)
 
 According to Forbes, The brand value of Nike in 2014 is estimated to be at $19 billion, up from $17.3 billion last year making it 'The World's Most Valuable Sports Brands 2014'. 
 
