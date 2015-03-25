@@ -2,6 +2,8 @@
 layout: post 
 title: Logo Competition in MIU!
 ---
+![photo](http://meekayale1.files.wordpress.com/2013/01/wpid-ck-competition-istock-16242591.jpg)
+
   I’m wondering if you’ll sign up to the competition since you're an artist, or not. The prize may blow you away. 
 
   *MIU* is creating this amazing opportunity to make the students work together, get to know each other and improve ideas that they may 
