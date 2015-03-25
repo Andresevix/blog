@@ -1,10 +1,8 @@
 ---
 layout: page
-title: About
+title: Want to know about me? Let's see...
 permalink: /about/
 ---
-Want to know about me? Let's see...
-
 #Personal
 
 * Name: Andrés Chacin
